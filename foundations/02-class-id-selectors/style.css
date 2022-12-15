@@ -1,0 +1,20 @@
+/* Styles.css */
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.three {
+    font-size: 24px;
+}
+
+#linetwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#linefour {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
